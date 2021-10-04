@@ -1,0 +1,7 @@
+.header__compass {
+    max-width: 200px;
+    max-height: 200px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}

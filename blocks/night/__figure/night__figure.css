@@ -1,0 +1,9 @@
+.night__figure {
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  top: 0;
+  right: -210px;
+  background-image: url('../../../images/night_moon.png');
+  background-size: contain;
+}

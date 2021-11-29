@@ -6,6 +6,7 @@ And it's based on first project of Yandex Praktikum.
 * html (base)
 * css (base)
 * flex-box
+--
 **Attention**
 This website is only first step of education, and it's not addaptive.
 

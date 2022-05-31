@@ -9,6 +9,7 @@ This landing page was build after finishing first course at Yandex Praktikum onl
 **Attention**
 This website is only first step of education, and it's not addaptive.
 
-https://bakayalexander.github.io/balaklava-project/
+
+[Balaclava Project](https://balaclava-static.netlify.app/)
 
 
